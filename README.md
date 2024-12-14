@@ -7,8 +7,8 @@ Este proyecto tiene como objetivo realizar un análisis de los nutrientes de dif
 
 El archivo Excel presenta un análisis visual interactivo de los nutrientes de los alimentos de acuerdo con diferentes categorías (por ejemplo, Leche, Licor, Carnes, etc.) y los nutrientes que aportan (proteínas, lípidos, carbohidratos y agua). Utiliza las siguientes características de Excel:
 
-![an1](https://github.com/user-attachments/assets/3115b180-282e-4ac5-a218-92dd3e05991e)
 
+![Captura de pantalla 2024-12-13 195650](https://github.com/user-attachments/assets/913b1ea8-d16e-4c74-b56c-92bea9324607)
 
 
 - **📊 Gráficos Dinámicos**: Visualización interactiva de datos nutricionales (proteínas, carbohidratos, lípidos y agua) para distintos alimentos.
